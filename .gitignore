@@ -220,3 +220,6 @@ __marimo__/
 datasets/
 
 anaconda_projects/
+
+# Ignorar todos los CSV
+*.csv
